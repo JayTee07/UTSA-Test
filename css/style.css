@@ -1,0 +1,51 @@
+.navigation{
+    width: 100%;
+    background-color: lightgray;
+    display: block;
+    height: 70px;
+    border: 2px solid darkgray;
+}
+.navLinks{
+    display: inline-block;
+    background-color: darkgray;
+    height: 20px;
+    width: 150px;
+    text-align: center;
+    padding: 25px;
+}
+.section{
+    width: 100%;
+}
+.left{
+    width: 29%;
+    background-color: lightgray;
+    float: left;
+    height: 800px;
+    margin-right: 0px;
+}
+.right{
+    width: 70%;
+    background-color: lightgray;
+    float: right;
+    height: 800px;
+    margin-left: 0px;
+    border: 2px solid darkgray;
+}
+
+.leftTop{
+    height: 30%;
+    background-color: lightgray;
+    border: 2px solid darkgray;
+    text-align: center;
+}
+.leftBottom{
+    height: 70%;
+    background-color: lightgray;
+    border: 2px solid darkgray;
+    text-align: center;
+}
+.bottomList{
+    text-align: left;
+    padding-left: 50px;
+    padding-top: 50px;
+}
